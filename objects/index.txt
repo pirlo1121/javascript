@@ -1,0 +1,25 @@
+.map(): transforma elementos:
+        [1, 2, 3, 4, 5]:  Crear un nuevo arreglo con cada número al cuadrado.
+        ['Ana', 'Luis', 'Carlos', 'María']: Crear un nuevo arreglo con los nombres en mayúsculas.
+
+
+.filter(): filtra elementos:
+        [12, 25, 8, 19, 34, 7]: Filtrar las edades mayores o iguales a 18.
+        ['perro', 'gato', 'elefante', 'ratón']: Filtrar las palabras que tengan más de 5 letras.
+
+
+
+.reduce(): acumula un valor:
+        [100, 200, 50, 150]: Obtener la suma total de todos los precios.
+
+
+
+.forEach(): recorre el arreglo:
+        ['manzana', 'pera', 'plátano']: Mostrar en consola cada fruta con su índice. Ejemplo: "Índice 0: manzana".
+        
+
+
+.find(): encuentra el primer elemento que cumpla una condición:
+        [{nombre: 'Ana', edad: 25}, {nombre: 'Luis', edad: 17}]: Encuentra el primer usuario mayor de edad.
+
+
