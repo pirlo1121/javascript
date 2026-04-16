@@ -11,3 +11,4 @@ if (tabla < 0 || rango < 0) {
         console.log(`${tabla} * ${i} = ${i * tabla}`)
     }
 }
+
